@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NearbyPlace</string>
+    <string name="title_activity_maps">Nearby Place</string>
+
+    <!--<string name="browser_key">AIzaSyAiY96vCEi9EIOvONLKsd1AN7zLqLMeonM</string>-->
+    <string name="browser_key">AIzaSyCsaNlTY02JW0Rg1IyqszaRchdus9Ao8ME</string>
+</resources>
